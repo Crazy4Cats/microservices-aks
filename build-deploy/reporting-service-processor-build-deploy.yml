@@ -3,7 +3,7 @@
 trigger:
   branches:
     include: 
-    - master
+    - testing
   paths:
     include: 
     - source/reporting-service/ReportingService.Processor
